@@ -1,0 +1,4 @@
+
+source .dotfiles/.aliases
+source .dotfiles/.exports
+source .dotfiles/.funcs

@@ -1,0 +1,7 @@
+
+
+
+# Don't write bytecode python
+export PYTHONDONTWRITEBYTECODE=1
+
+
