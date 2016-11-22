@@ -4,7 +4,7 @@ function prompt()
     if [ "$PWD" != "$MYOLDPWD" ]; then
         MYOLDPWD="$PWD"
         # Test to see if env exist, if yes activate
-        test -e env && source env/bin/activate
+        test -e .env && source .env/bin/activate
     fi
 }
 
